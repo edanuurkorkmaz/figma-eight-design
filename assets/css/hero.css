@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #C4C4C4;
+}
+.container{
+    background-color: #ffffff;
+    margin-inline: auto;
+    margin-block: 171px;
+    width: 1440px;
+    height: 692px;
+    top: 2096px;
+    left: -720px;
+    background-image: url(/assets/images/hero-image.png);
+    background-repeat: no-repeat;
+    background-position: 640px;
+}
+.content{
+    margin-left: 165px;
+    padding-top: 138px;
+}
+.content h1{
+    color: #212121;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 70px;
+    letter-spacing: -0.699999988079071px;
+    text-align: left;
+}
+.content p {
+    padding-top: 12px;
+    color: #212121;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: left;
+}
+.content a {
+    color: #ffffff;
+    font-size: 23px;
+    font-weight: 600;
+    line-height: 32px;
+    text-align: center;
+    text-decoration: none;
+    padding: 16px 40px;
+    background-color: #0D6EFD;
+
+  }
+  .price-section{
+    padding-top: 24px;
+    padding-bottom: 32px;
+  }
+  .new-price{
+    color: #212121;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: -0.4000000059604645px;
+    text-align: left;
+  }
+  .overlined-price{
+    color: #C4C4C4;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 34px;
+    text-align: left;
+    text-decoration-line: line-through;
+
+  }

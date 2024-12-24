@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: darkgray;
+}
+.container{
+    background-color: aliceblue;
+    width: 1440px;
+    margin-inline: auto;
+    margin-block: 171px;
+    border-radius: 16px;
+}
+.container a{
+    text-align: center;
+    text-decoration: none;
+    color: #212121;
+    font-size: 24px;
+    padding: 16px 40px;
+    background-color: #ffff;
+    border-radius: 16px;
+    display: flex;
+    justify-content: center;
+    font-weight: 600;
+}

@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  width: 1110px;
+  background-color: #121212;
+  /* height: 349px; */
+  background-image: url(/assets/images/call-to-action-photo.png);
+  background-repeat: no-repeat;
+  background-position: 680px;
+  border-radius: 12px;
+}
+.description {
+  padding-top: 83px;
+  padding-left: 96px;
+  width: 426px;
+  padding-bottom: 82px;
+}
+.description h1 {
+  color: #ffffff;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 48px;
+  text-align: left;
+  margin-bottom: 24px;
+}
+.description a {
+  color: #ffffff;
+  font-size: 23px;
+  font-weight: 600;
+  line-height: 32px;
+  text-align: center;
+  text-decoration: none;
+  padding: 16px 72px;
+  background-color: #dc3545;
+}

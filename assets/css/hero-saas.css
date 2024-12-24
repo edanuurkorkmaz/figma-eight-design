@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    background-color: #05285B;
+    background-image: url(/assets/images/hero-saas-illustration.png);
+    background-repeat: no-repeat;
+    background-position: 615px;
+    width: 1440px;
+    height: 1024px;
+    top: 827px;
+    left: -720px;
+    padding: 0px 0px 202.41px 0px;
+    margin-inline: auto;
+    margin-block: 171px;
+}
+.content{
+    margin-left: 165px;
+    padding-top: 248px;
+}
+.content h1{
+    color: #ffffff;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 70px;
+    letter-spacing: -0.699999988079071px;
+    text-align: left;
+}
+.content p{
+    padding-top: 12px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: left;
+    color:#ffffff ;
+    padding-bottom: 32px;
+}
+.content a {
+    color: #ffffff;
+    font-size: 23px;
+    font-weight: 600;
+    line-height: 32px;
+    text-align: center;
+    text-decoration: none;
+    padding: 16px 72px;
+    background-color: #dc3545;
+
+  }
+ .container span{
+    margin-top: 24px;
+  }
+  .container img{
+    vertical-align: middle;
+  }
+  .text{
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    margin-left: 12px;
+  }

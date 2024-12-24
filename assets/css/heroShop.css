@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(/assets/images/hero-shop-bg.jpg);
+    background-repeat: no-repeat;
+}
+.container {
+    width: 1440px;
+    text-align: center;
+    padding-top: 354px;
+}
+.container h1{
+font-size: 80px;
+font-weight: 700;
+line-height: 81px;
+letter-spacing: -0.8999999761581421px;
+text-align: center;
+text-decoration-skip-ink: none;
+color: #ffffff;
+margin-bottom: 24px;
+}
+.container p {
+font-size: 30px;
+font-weight: 600;
+line-height: 37px;
+letter-spacing: -0.3499999940395355px;
+text-align: center;
+text-decoration-skip-ink: none;
+margin-bottom: 40px;
+color: #ffffff;
+}
+.container a {
+    text-decoration: none;
+    border-radius: 32px;
+    padding: 16px 40px;
+    background-color:#094BAC;
+    ;
+    color: #ffffff;
+    font-size: 23px;
+    font-weight: 600;
+    line-height: 32px;
+    text-align: center;
+    text-decoration-skip-ink: none;
+    
+}
