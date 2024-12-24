@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    background: linear-gradient(225deg, #A54343 0%, #E73535 100%);
+    width: 1440px;
+    height: 1024px;
+    margin-inline: auto;
+    margin-block: 171px;
+}
+.content{
+    background-image: url(/assets/images/hero-restaurant-image.png);
+    background-repeat: no-repeat;
+    background-position: 537px;
+    padding-top: 1150px;
+}
+.deeper-content{
+    margin-left: 165px;
+    margin-top: -900px;
+} 
+.deeper-content h1{
+    color: #ffffff;
+    font-size: 140px;
+    font-weight: 700;
+    line-height: 127px;
+    letter-spacing: -1.5750000476837158px;
+    text-align: left;
+}
+.deeper-content p{
+    padding-top: 35px;
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 34px;
+    text-align: left;
+}
+.button{
+    padding-top: 35px;
+}
+.delivery-section{
+    padding-top: 35px;
+}
+.delivery-section span {
+    color: #ffffff;
+}
+.first-span{
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: left;
+    margin-left: 12px;
+}
+.second-span{
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: left;
+    display: grid;
+    margin-left: 66px;
+}
